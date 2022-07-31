@@ -1,0 +1,16 @@
+class Hackchat:
+	hackchat = ["📖 Guruhni buzish ishga tushdi: 📃 ▌░░░░░░░░░░ ▐ 0⃣0⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌█░░░░░░░░░ ▐ 1⃣0⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌██░░░░░░░░ ▐ 2️⃣0⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌███░░░░░░░ ▐ 3️⃣0⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌████░░░░░░ ▐ 4️⃣0️⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌█████░░░░░ ▐ 5️⃣5️⃣%",
+"📖 Guruhni buzish ishga tushdi:📃 ▌██████░░░░ ▐ 6️⃣7️⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌███████░░░ ▐ 7️⃣4️⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌████████░░ ▐ 7️⃣6️⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌████████░░ ▐ 7️⃣9️⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌█████████░ ▐ 8️⃣3️⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌█████████░ ▐ 8️⃣7️⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌█████████░ ▐ 9️⃣5️⃣%",
+"📖 Guruhni buzish ishga tushdi: 📃 ▌██████████ ▐ 🔟0️⃣%",
+"📖 Guruh muvoffaqiyatli buzildi!"]
