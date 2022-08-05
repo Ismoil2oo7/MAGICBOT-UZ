@@ -25,7 +25,7 @@ async def iquery(query):
 							
 							[Button.inline("ok", data=b"mtest"), Button.inline("no", data=b"ntest")],
 							[Button.inline("Brain animation", data=b"otest"), Button.inline("Prank jokera 🤣", data=b"ptest")],
-							[Button.inline("LOVE STORY WTF", data=b"qtest")]
+							[Button.inline("LOVE STORY WTF", data=b"qtest")],
 												
 												[Button.url("TELEGRAM KANALIMIZGA OBUNA BOʻLING", url="https://t.me/fox_baby_userbot")]
 											
