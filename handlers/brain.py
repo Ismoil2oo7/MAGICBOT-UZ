@@ -1,0 +1,15 @@
+class Online:
+        online = ["Sani miyyen ➡️ 🧠\n\n🧠         <(^_^ <)🗑",
+        "Sani miyyen ➡️ 🧠\n\n🧠       <(^_^ <)  🗑",
+        "Sani miyyen ➡️ 🧠\n\n🧠     <(^_^ <)    🗑",
+        "Sani miyyen ➡️ 🧠\n\n🧠   <(^_^ <)      🗑",
+        "Sani miyyen ➡️ 🧠\n\n🧠 <(^_^ <)        🗑",
+        "Sani miyyen ➡️ 🧠\n\n🧠<(^_^ <)         🗑",
+        "Sani miyyen ➡️ 🧠\n\n(> ^_^)>🧠         🗑",
+        "Sani miyyen ➡️ 🧠\n\n  (> ^_^)>🧠       🗑",
+        "Sani miyyen ➡️ 🧠\n\n    (> ^_^)>🧠     🗑",
+        "Sani miyyen ➡️ 🧠\n\n      (> ^_^)>🧠   🗑",
+        "Sani miyyen ➡️ 🧠\n\n        (> ^_^)>🧠 🗑",
+        "Sani miyyen ➡️ 🧠\n\n          (> ^_^)>🧠🗑",
+        "Sani miyyen ➡️ 🧠\n\n           (> ^_^)>🗑",
+        "Sani miyyen ➡️ 🧠\n\n           Miyyangiz qovoq ekan<(^_^ <)🗑"]
